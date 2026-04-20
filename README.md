@@ -2,9 +2,6 @@
 
 ShopWave is a production-level React application designed for a seamless online shopping experience. This project was built to demonstrate advanced React concepts, state management, and real-world backend integration as part of the **Batch 2029 React Course Final Project**.
 
-## 🚀 Live Demo
-- **Repository**: [View on GitHub](https://github.com/merugu25bcs10797-rgb/term-3-end-project-)
-- **Submission ID**: PRD 4
 
 ---
 
